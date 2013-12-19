@@ -1,3 +1,7 @@
-h1. Scala Notes
+# Scala Notes
 
-h2. Style Guides
+These are notes or links to useful Scala things.
+
+## Style Guides
+
+[Scala Style Guide](http://docs.scala-lang.org/style/)
