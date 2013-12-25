@@ -23,4 +23,5 @@ These are notes or links to useful Scala things.
 ## Clients
 
 [Scalastics](https://github.com/bsadeh/scalastic) - ElasticSearch
+
 [Querulous](https://github.com/nkallen/querulous) - Database
