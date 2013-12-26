@@ -25,3 +25,5 @@ These are notes or links to useful Scala things.
 [Scalastics](https://github.com/bsadeh/scalastic) - ElasticSearch
 
 [Querulous](https://github.com/nkallen/querulous) - Database
+
+[Scala Redis](https://github.com/acrosa/scala-redis) - Redis
