@@ -27,3 +27,5 @@ These are notes or links to useful Scala things.
 [Querulous](https://github.com/nkallen/querulous) - Database
 
 [Scala Redis](https://github.com/acrosa/scala-redis) - Redis
+
+[Smile](https://github.com/robey/smile) - Memcached
