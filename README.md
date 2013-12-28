@@ -8,6 +8,10 @@ These are notes or links to useful Scala things.
 
 [Twitter's Scala Style Guide](http://twitter.github.io/effectivescala/)
 
+## Build tools
+
+[sbt](http://www.scala-sbt.org) - Scala Build Tool
+
 ## Frameworks
 
 [Play](http://www.playframework.com)
