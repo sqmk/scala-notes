@@ -33,3 +33,7 @@ These are notes or links to useful Scala things.
 [Scala Redis](https://github.com/acrosa/scala-redis) - Redis
 
 [Smile](https://github.com/robey/smile) - Memcached
+
+## Unit Testing
+
+[ScalaTest](http://www.scalatest.org)
