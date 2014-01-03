@@ -34,6 +34,8 @@ These are notes or links to useful Scala things.
 
 [Smile](https://github.com/robey/smile) - Memcached
 
+[ReactiveMongo](http://reactivemongo.org) - MongoDB
+
 ## Unit Testing
 
 [ScalaTest](http://www.scalatest.org)
