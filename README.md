@@ -2,6 +2,10 @@
 
 These are notes or links to useful Scala things.
 
+## Scala
+
+[Scala](http://www.scala-lang.org)
+
 ## Style Guides
 
 [Scala Style Guide](http://docs.scala-lang.org/style/)
