@@ -40,6 +40,8 @@ These are notes or links to useful Scala things.
 
 [ReactiveMongo](http://reactivemongo.org) - MongoDB
 
+[Dispatch](https://github.com/dispatch/dispatch) - HTTP
+
 ## Unit Testing
 
 [ScalaTest](http://www.scalatest.org)
