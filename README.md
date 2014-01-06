@@ -24,6 +24,8 @@ These are notes or links to useful Scala things.
 
 [Scalatra](http://www.scalatra.org)
 
+[Akka](http://akka.io)
+
 ## Messaging
 
 [AMQP](http://www.javacodegeeks.com/2012/04/connect-to-rabbitmq-amqp-using-scala.html)
