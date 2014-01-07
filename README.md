@@ -44,6 +44,8 @@ These are notes or links to useful Scala things.
 
 [Dispatch](https://github.com/dispatch/dispatch) - HTTP
 
-## Unit Testing
+## Testing
 
 [ScalaTest](http://www.scalatest.org)
+
+[Gatling](http://gatling-tool.org)
