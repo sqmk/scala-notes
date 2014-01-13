@@ -56,6 +56,8 @@ These are notes or links to useful Scala things.
 
 [Dispatch](https://github.com/dispatch/dispatch) - HTTP
 
+[Slick](http://slick.typesafe.com) - Database
+
 ## Servers
 
 [Socko](http://sockoweb.org)
