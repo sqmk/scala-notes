@@ -30,6 +30,8 @@ These are notes or links to useful Scala things.
 
 [Akka](http://akka.io)
 
+[Spray](http://spray.io)
+
 ## Messaging
 
 [AMQP](http://www.javacodegeeks.com/2012/04/connect-to-rabbitmq-amqp-using-scala.html)
