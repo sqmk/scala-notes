@@ -38,6 +38,10 @@ These are notes or links to useful Scala things.
 
 [AMQP](http://www.javacodegeeks.com/2012/04/connect-to-rabbitmq-amqp-using-scala.html)
 
+## CLI
+
+[Scallop](https://github.com/scallop/scallop)
+
 ## Clients
 
 [Scalastics](https://github.com/bsadeh/scalastic) - ElasticSearch
