@@ -32,6 +32,8 @@ These are notes or links to useful Scala things.
 
 [Spray](http://spray.io)
 
+[Bowler](http://bowlerframework.org)
+
 ## Messaging
 
 [AMQP](http://www.javacodegeeks.com/2012/04/connect-to-rabbitmq-amqp-using-scala.html)
