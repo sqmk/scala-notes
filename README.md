@@ -52,6 +52,10 @@ These are notes or links to useful Scala things.
 
 [Dispatch](https://github.com/dispatch/dispatch) - HTTP
 
+## Servers
+
+[Socko](http://sockoweb.org)
+
 ## Testing
 
 [ScalaTest](http://www.scalatest.org)
