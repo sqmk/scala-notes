@@ -34,6 +34,8 @@ These are notes or links to useful Scala things.
 
 [Bowler](http://bowlerframework.org)
 
+[BackChat Hookup](https://github.com/backchatio/hookup)
+
 ## Messaging
 
 [AMQP](http://www.javacodegeeks.com/2012/04/connect-to-rabbitmq-amqp-using-scala.html)
