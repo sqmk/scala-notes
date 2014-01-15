@@ -64,6 +64,10 @@ These are notes or links to useful Scala things.
 
 [Socko](http://sockoweb.org)
 
+## Apps
+
+[Activator](http://typesafe.com/activator)
+
 ## Testing
 
 [ScalaTest](http://www.scalatest.org)
