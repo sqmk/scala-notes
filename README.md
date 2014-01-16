@@ -34,6 +34,8 @@ These are notes or links to useful Scala things.
 
 [Bowler](http://bowlerframework.org)
 
+[Netty](http://netty.io)
+
 [BackChat Hookup](https://github.com/backchatio/hookup)
 
 ## Messaging
