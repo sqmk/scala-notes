@@ -75,3 +75,7 @@ These are notes or links to useful Scala things.
 [ScalaTest](http://www.scalatest.org)
 
 [Gatling](http://gatling-tool.org)
+
+## Deployment
+
+[Maven](http://scala-tools.org/mvnsites/maven-scala-plugin/)
