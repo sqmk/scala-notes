@@ -76,6 +76,10 @@ These are notes or links to useful Scala things.
 
 [Gatling](http://gatling-tool.org)
 
+## Tools
+
+[JMagick](http://www.jmagick.org)
+
 ## Deployment
 
 [Maven](http://scala-tools.org/mvnsites/maven-scala-plugin/)
