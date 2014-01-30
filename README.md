@@ -62,6 +62,8 @@ These are notes or links to useful Scala things.
 
 [Slick](http://slick.typesafe.com) - Database
 
+[AWS](https://github.com/seratch/AWScala) - AWS Client
+
 ## Servers
 
 [Socko](http://sockoweb.org)
