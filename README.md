@@ -81,6 +81,7 @@ These are notes or links to useful Scala things.
 ## Tools
 
 [JMagick](http://www.jmagick.org)
+[More Scala related stuff](https://github.com/scala)
 
 ## Deployment
 
