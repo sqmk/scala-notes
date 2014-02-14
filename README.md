@@ -86,3 +86,7 @@ These are notes or links to useful Scala things.
 ## Deployment
 
 [Maven](http://scala-tools.org/mvnsites/maven-scala-plugin/)
+
+## Design Patterns
+
+http://pavelfatin.com/design-patterns-in-scala/
