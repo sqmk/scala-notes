@@ -64,6 +64,8 @@ These are notes or links to useful Scala things.
 
 [AWS](https://github.com/seratch/AWScala) - AWS Client
 
+[Squeryl](http://squeryl.org) - Database
+
 ## Servers
 
 [Socko](http://sockoweb.org)
