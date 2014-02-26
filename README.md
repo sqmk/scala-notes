@@ -66,6 +66,8 @@ These are notes or links to useful Scala things.
 
 [Squeryl](http://squeryl.org) - Database
 
+[Scala Logging](https://github.com/typesafehub/scalalogging) - Logging
+
 ## Servers
 
 [Socko](http://sockoweb.org)
