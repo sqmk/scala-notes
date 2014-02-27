@@ -68,6 +68,8 @@ These are notes or links to useful Scala things.
 
 [Scala Logging](https://github.com/typesafehub/scalalogging) - Logging
 
+[Stripe](https://github.com/anurag/stripe-scala) - Stripe
+
 ## Servers
 
 [Socko](http://sockoweb.org)
