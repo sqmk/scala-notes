@@ -70,6 +70,8 @@ These are notes or links to useful Scala things.
 
 [Stripe](https://github.com/anurag/stripe-scala) - Stripe
 
+[jmagick](http://www.jmagick.org) - ImageMagick
+
 ## Servers
 
 [Socko](http://sockoweb.org)
