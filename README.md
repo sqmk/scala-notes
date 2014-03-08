@@ -42,6 +42,8 @@ These are notes or links to useful Scala things.
 
 [AMQP](http://www.javacodegeeks.com/2012/04/connect-to-rabbitmq-amqp-using-scala.html)
 
+[Camel](http://doc.akka.io/docs/akka/2.1.4/scala/camel.html)
+
 ## CLI
 
 [Scallop](https://github.com/scallop/scallop)
