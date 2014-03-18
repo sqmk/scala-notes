@@ -100,6 +100,7 @@ These are notes or links to useful Scala things.
 ## Deployment
 
 [Maven](http://scala-tools.org/mvnsites/maven-scala-plugin/)
+[Artifactory](http://www.jfrog.com/home/v_artifactory_opensource_overview)
 
 ## Design Patterns
 
