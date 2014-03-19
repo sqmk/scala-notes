@@ -16,10 +16,6 @@ These are notes or links to useful Scala things.
 
 [Scalatron](https://github.com/scalatron/scalatron) - Programming game
 
-## Build tools
-
-[sbt](http://www.scala-sbt.org) - Scala Build Tool
-
 ## Frameworks
 
 [Play](http://www.playframework.com)
@@ -97,8 +93,9 @@ These are notes or links to useful Scala things.
 
 [Simplex3D](http://www.simplex3d.org)
 
-## Deployment
+## Deployment / Build Tools
 
+[sbt](http://www.scala-sbt.org) - Scala Build Tool
 [Maven](http://scala-tools.org/mvnsites/maven-scala-plugin/)
 [Artifactory](http://www.jfrog.com/home/v_artifactory_opensource_overview)
 
