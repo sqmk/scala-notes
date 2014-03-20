@@ -22,6 +22,8 @@ These are notes or links to useful Scala things.
 
 [IntelliJ](http://www.jetbrains.com/idea/features/scala.html)
 
+[NetBeans](http://wiki.netbeans.org/Scala)
+
 ## Frameworks
 
 [Play](http://www.playframework.com)
