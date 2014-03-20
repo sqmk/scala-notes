@@ -9,23 +9,39 @@ These are notes or links to useful Scala things.
 ## Style Guides
 
 [Scala Style Guide](http://docs.scala-lang.org/style/)
+
 [Twitter's Scala Style Guide](http://twitter.github.io/effectivescala/)
 
 ## Learning
 
 [Scalatron](https://github.com/scalatron/scalatron) - Programming game
 
+## IDEs
+
+[Scala IDE for Eclipse](http://scala-ide.org)
+
+[IntelliJ](http://www.jetbrains.com/idea/features/scala.html)
+
 ## Frameworks
 
 [Play](http://www.playframework.com)
+
 [Lift](http://liftweb.net)
+
 [Scalatra](http://www.scalatra.org)
+
 [Akka](http://akka.io)
+
 [Spray](http://spray.io)
+
 [Bowler](http://bowlerframework.org)
+
 [Netty](http://netty.io)
+
 [BackChat Hookup](https://github.com/backchatio/hookup)
+
 [ScalaBuff](https://github.com/SandroGrzicic/ScalaBuff)
+
 
 ## Messaging
 
@@ -44,16 +60,27 @@ These are notes or links to useful Scala things.
 ## Clients
 
 [Scalastics](https://github.com/bsadeh/scalastic) - ElasticSearch
+
 [Querulous](https://github.com/nkallen/querulous) - Database
+
 [Scala Redis](https://github.com/acrosa/scala-redis) - Redis
+
 [Smile](https://github.com/robey/smile) - Memcached
+
 [ReactiveMongo](http://reactivemongo.org) - MongoDB
+
 [Dispatch](https://github.com/dispatch/dispatch) - HTTP
+
 [Slick](http://slick.typesafe.com) - Database
+
 [AWS](https://github.com/seratch/AWScala) - AWS Client
+
 [Squeryl](http://squeryl.org) - Database
+
 [Scala Logging](https://github.com/typesafehub/scalalogging) - Logging
+
 [Stripe](https://github.com/anurag/stripe-scala) - Stripe
+
 [jmagick](http://www.jmagick.org) - ImageMagick
 
 ## Servers
@@ -67,11 +94,13 @@ These are notes or links to useful Scala things.
 ## Testing
 
 [ScalaTest](http://www.scalatest.org)
+
 [Gatling](http://gatling-tool.org)
 
 ## Tools
 
 [JMagick](http://www.jmagick.org)
+
 [More Scala related stuff](https://github.com/scala)
 
 ## Game Engines
@@ -81,7 +110,9 @@ These are notes or links to useful Scala things.
 ## Deployment / Build Tools
 
 [sbt](http://www.scala-sbt.org) - Scala Build Tool
+
 [Maven](http://scala-tools.org/mvnsites/maven-scala-plugin/)
+
 [Artifactory](http://www.jfrog.com/home/v_artifactory_opensource_overview)
 
 ## Design Patterns
