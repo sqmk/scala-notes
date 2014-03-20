@@ -24,6 +24,8 @@ These are notes or links to useful Scala things.
 
 [NetBeans](http://wiki.netbeans.org/Scala)
 
+[Sublime](https://github.com/sublimescala/sublime-ensime)
+
 ## Frameworks
 
 [Play](http://www.playframework.com)
