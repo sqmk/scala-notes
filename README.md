@@ -25,6 +25,7 @@ These are notes or links to useful Scala things.
 [Bowler](http://bowlerframework.org)
 [Netty](http://netty.io)
 [BackChat Hookup](https://github.com/backchatio/hookup)
+[ScalaBuff](https://github.com/SandroGrzicic/ScalaBuff)
 
 ## Messaging
 
@@ -67,7 +68,6 @@ These are notes or links to useful Scala things.
 
 [ScalaTest](http://www.scalatest.org)
 [Gatling](http://gatling-tool.org)
-
 
 ## Tools
 
