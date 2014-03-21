@@ -16,6 +16,10 @@ These are notes or links to useful Scala things.
 
 [Scalatron](https://github.com/scalatron/scalatron) - Programming game
 
+## Books
+
+[Programming Scala](http://www.amazon.com/Programming-Scala-Comprehensive-Step---Step/dp/0981531644/)
+
 ## IDEs
 
 [Scala IDE for Eclipse](http://scala-ide.org)
