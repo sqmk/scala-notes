@@ -50,6 +50,7 @@ These are notes or links to useful Scala things.
 
 [ScalaBuff](https://github.com/SandroGrzicic/ScalaBuff)
 
+[Spring (Java)](http://projects.spring.io/spring-framework/)
 
 ## Messaging
 
