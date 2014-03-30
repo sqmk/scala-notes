@@ -52,6 +52,8 @@ These are notes or links to useful Scala things.
 
 [Spring (Java)](http://projects.spring.io/spring-framework/)
 
+[Guice (Java)](https://code.google.com/p/google-guice/)
+
 ## Messaging
 
 [AMQP](http://www.javacodegeeks.com/2012/04/connect-to-rabbitmq-amqp-using-scala.html)
