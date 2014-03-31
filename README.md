@@ -94,6 +94,8 @@ These are notes or links to useful Scala things.
 
 [jmagick](http://www.jmagick.org) - ImageMagick
 
+[Riak](http://riak.scalapenos.com) - Riak
+
 ## Servers
 
 [Socko](http://sockoweb.org)
