@@ -131,3 +131,7 @@ These are notes or links to useful Scala things.
 ## Design Patterns
 
 http://pavelfatin.com/design-patterns-in-scala/
+
+## Articles
+
+http://www.typesafe.com/blog/guest-post-top-100-scala-libraries-for-typesafe
