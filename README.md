@@ -20,6 +20,8 @@ These are notes or links to useful Scala things.
 
 [Programming Scala](http://www.amazon.com/Programming-Scala-Comprehensive-Step---Step/dp/0981531644/)
 
+[List of Books](http://www.scala-lang.org/documentation/books.html)
+
 ## IDEs
 
 [Scala IDE for Eclipse](http://scala-ide.org)
