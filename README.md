@@ -22,6 +22,8 @@ These are notes or links to useful Scala things.
 
 [Scala in Action](http://www.amazon.com/Scala-Action-Nilanjan-Raychaudhuri/dp/1935182757/)
 
+[List of Books](http://www.scala-lang.org/documentation/books.html)
+
 ## IDEs
 
 [Scala IDE for Eclipse](http://scala-ide.org)
@@ -133,3 +135,7 @@ These are notes or links to useful Scala things.
 ## Design Patterns
 
 http://pavelfatin.com/design-patterns-in-scala/
+
+## Articles
+
+http://www.typesafe.com/blog/guest-post-top-100-scala-libraries-for-typesafe
