@@ -26,6 +26,8 @@ These are notes or links to useful Scala things.
 
 [Scala Cookbook](http://www.amazon.com/Scala-Cookbook-Object-Oriented-Functional-Programming/dp/1449339611/)
 
+[Play for Scala](http://www.amazon.com/Play-Scala-Covers-2/dp/1617290793/)
+
 [List of Books](http://www.scala-lang.org/documentation/books.html)
 
 ## IDEs
