@@ -126,6 +126,10 @@ These are notes or links to useful Scala things.
 
 [More Scala related stuff](https://github.com/scala)
 
+## Image Manipulation
+
+[scrimage](https://github.com/sksamuel/scrimage)
+
 ## Game Engines
 
 [Simplex3D](http://www.simplex3d.org)
