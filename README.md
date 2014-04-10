@@ -122,13 +122,13 @@ These are notes or links to useful Scala things.
 
 ## Tools
 
-[JMagick](http://www.jmagick.org)
-
 [More Scala related stuff](https://github.com/scala)
 
 ## Image Manipulation
 
 [scrimage](https://github.com/sksamuel/scrimage)
+
+[JMagick](http://www.jmagick.org)
 
 ## Game Engines
 
