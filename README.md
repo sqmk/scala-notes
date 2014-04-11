@@ -130,6 +130,8 @@ These are notes or links to useful Scala things.
 
 [JMagick](http://www.jmagick.org)
 
+[pureimage](https://github.com/stephenjudkins/pureimage)
+
 ## Game Engines
 
 [Simplex3D](http://www.simplex3d.org)
