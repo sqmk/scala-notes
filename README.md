@@ -140,6 +140,8 @@ These are notes or links to useful Scala things.
 
 [scala-bcrypt](https://github.com/t3hnar/scala-bcrypt)
 
+[jBCrypt](https://github.com/jeremyh/jBCrypt)
+
 ## Deployment / Build Tools
 
 [sbt](http://www.scala-sbt.org) - Scala Build Tool
