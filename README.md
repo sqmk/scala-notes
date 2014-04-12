@@ -136,6 +136,10 @@ These are notes or links to useful Scala things.
 
 [Simplex3D](http://www.simplex3d.org)
 
+## Passwords
+
+[scala-bcrypt](https://github.com/t3hnar/scala-bcrypt)
+
 ## Deployment / Build Tools
 
 [sbt](http://www.scala-sbt.org) - Scala Build Tool
