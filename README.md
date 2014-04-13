@@ -142,6 +142,8 @@ These are notes or links to useful Scala things.
 
 [jBCrypt](https://github.com/jeremyh/jBCrypt)
 
+[jasypt](http://www.jasypt.org)
+
 ## Deployment / Build Tools
 
 [sbt](http://www.scala-sbt.org) - Scala Build Tool
