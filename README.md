@@ -144,6 +144,8 @@ These are notes or links to useful Scala things.
 
 [jasypt](http://www.jasypt.org)
 
+[pbkdf2](https://github.com/nremond/pbkdf2-scala)
+
 ## Deployment / Build Tools
 
 [sbt](http://www.scala-sbt.org) - Scala Build Tool
