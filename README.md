@@ -156,6 +156,8 @@ These are notes or links to useful Scala things.
 
 [Artifactory](http://www.jfrog.com/home/v_artifactory_opensource_overview)
 
+[ScalaCheck](http://scalacheck.org)
+
 ## Design Patterns
 
 http://pavelfatin.com/design-patterns-in-scala/
