@@ -146,6 +146,8 @@ These are notes or links to useful Scala things.
 
 [pbkdf2](https://github.com/nremond/pbkdf2-scala)
 
+[Shiro](http://shiro.apache.org)
+
 ## Deployment / Build Tools
 
 [sbt](http://www.scala-sbt.org) - Scala Build Tool
